@@ -20,7 +20,7 @@ body {
 
 .cell {
     flex: 1;
-    background: red;
+    background: black;
     border: 1px solid white;
     box-sizing: border-box;
 }
